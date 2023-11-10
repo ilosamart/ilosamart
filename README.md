@@ -8,3 +8,5 @@
 
 
 ![Me on GitHub](https://github-readme-stats.vercel.app/api?username=ilosamart)
+
+<a rel="me" href="https://mastodon.tramasoli.com/@ilosamart">Mastodon</a>
